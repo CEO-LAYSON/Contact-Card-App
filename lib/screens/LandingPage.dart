@@ -12,7 +12,7 @@ class LandingPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             CircleAvatar(
-              radius: 50,
+              radius: 60,
               backgroundImage: AssetImage('images/profile.PNG'),
             ),
             Text(
